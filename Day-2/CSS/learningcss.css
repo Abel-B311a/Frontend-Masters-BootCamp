@@ -22,3 +22,25 @@ h1 {
 img {
   border: 5px solid #2caa32;
 }
+
+a:link {
+  color: brown;
+  text-decoration: none;
+}
+
+a:visited {
+  color: lightcoral;
+}
+
+a:focus {
+  color: #1fcdcc;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+a:active {
+  opacity: 0.4;
+}
+]
